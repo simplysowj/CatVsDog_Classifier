@@ -10,3 +10,6 @@ Dog vs cat classifier:
 DogsVSCats.ipynb
 https://github.com/simplysowj/CatVsDog_Classifier-SpamDetector/blob/main/DogsVSCats.ipynb
 
+SMS classifier:
+SMS Classifier/sms-spam-detection.ipynb
+
