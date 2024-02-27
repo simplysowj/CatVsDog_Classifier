@@ -12,4 +12,5 @@ https://github.com/simplysowj/CatVsDog_Classifier-SpamDetector/blob/main/DogsVSC
 
 SMS classifier:
 SMS Classifier/sms-spam-detection.ipynb
+https://github.com/simplysowj/CatVsDog_Classifier-SpamDetector/blob/main/SMS%20Classifier/sms-spam-detection.ipynb
 
